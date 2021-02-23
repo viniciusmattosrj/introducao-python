@@ -1,18 +1,18 @@
-# Introdução Phython
+## Introdução Phython
 
 Workshop realizado com parceira pela Le Wagon para conhecimento do ecossistema Python. 
 
-## Instalação
+### Instalação
 
-Só realizar o git clone do projeto e ser feliz
-```bash
+Basta realizar o git clone do projeto com comando abaixo:
+```
 git clone git@github.com:viniciusmattosrj/introducao-python.git
 ```
 
-## Contribuições
+#### Contribuições
 Caso identifique pontos
 que possam ser aprimorados envie o seu PR. ;-)
 
 
-## License
+####License
 [MIT](https://choosealicense.com/licenses/mit/)
